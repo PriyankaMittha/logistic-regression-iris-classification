@@ -97,7 +97,7 @@ logistic-regression-iris-classification
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/logistic-regression-iris-classification.git
+git clone https://github.com/PriyankaMittha/logistic-regression-iris-classification
 ```
 
 2. Install dependencies
