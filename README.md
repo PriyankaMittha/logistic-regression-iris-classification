@@ -1,6 +1,6 @@
 # Logistic Regression - Iris Dataset Classification
 
-This project demonstrates how to solve a **classification problem using Logistic Regression** in Machine Learning.  
+This project demonstrates how to solve a **binary classification problem using Logistic Regression** in Machine Learning.  
 The model is trained on the famous **Iris dataset** to classify flower species based on their features.
 
 ---
